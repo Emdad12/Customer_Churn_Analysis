@@ -15,7 +15,7 @@
 ---
 This project involves analyzing customer churn data to gain insights into customer behavior and identify key factors influencing churn. The analysis was conducted using Power BI, leveraging its powerful visualization and analytical tools to create an interactive dashboard for better decision-making.
 ### View the Report:
-You can view the live Power BI report here: [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAyZDgxOTUtZWJlYy00NzM0LWJkNGYtMzUxODdiNWUwZDRmIiwidCI6ImRmOTI5NDEzLWVjNjQtNDQyMS1hYjIzLTUyNWZmNGY2ZTRhYyIsImMiOjEwfQ%3D%3D)
+You can view the live Power BI report here: [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODc0ZmRkM2YtMTllMi00MjVlLWE2ZGQtZjJjYzM0ZDQyYjlkIiwidCI6ImRmOTI5NDEzLWVjNjQtNDQyMS1hYjIzLTUyNWZmNGY2ZTRhYyIsImMiOjEwfQ%3D%3D)
 ### Key Objectives
 - Understand customer churn patterns and trends.
 - Identify factors that contribute to customer churn.
